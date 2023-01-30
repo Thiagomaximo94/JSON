@@ -7,10 +7,10 @@
 ### :books: TEMA:
 <p> Para a realização do projeto o tema escolhido foi Livraria. o Projeto possui quatro rotas representando os gêneros e categorias de livros, onde cada uma possui quatro dados pré-preenchidos (mockados). <br><br><b>AS ROTAS:</b>
 <ul>
-<li><b>Artes</b></li>
-<li><b>Religião e espiritualidade</b> </li>
-<li><b>HQ's</b></li>
+<li><b>Romance</b></li>
+<li><b>Autoajuda</b> </li>
 <li><b>Biografia</b></li>
+<li><b>Finanças</b></li>
 </ul>
 
 ### :toolbox: TECNOLOGIAS USADAS:
