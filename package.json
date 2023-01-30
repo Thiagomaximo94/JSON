@@ -1,0 +1,16 @@
+{
+  "name": "projeto-individual-modulo-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository":"https://github.com/AlexProgramadorS/Projeto-Indivual-Modulo3-Resilia.git",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "test <alexaguilar694@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
